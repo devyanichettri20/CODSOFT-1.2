@@ -1,0 +1,23 @@
+.calc
+{
+    text-align: center;
+    padding: 20px;
+    margin: 120px 590px 0px 500px;
+    background-color:#1A1110;
+}
+input
+{
+    font-size: 23px;
+    background-color:#ADD8E6;
+    height: 50px;
+    width: 250px;
+    margin: 30px 20px;
+}
+.btn
+{
+    font-size: 30px;
+    margin: 10px;
+    background-color:#808080;
+    width: 50px;
+    border-radius: 10px;
+}
